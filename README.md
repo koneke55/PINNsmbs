@@ -9,7 +9,7 @@
 A **Physics-Informed Neural Network (PINN)** framework for accurate battery state prediction by combining **electrochemical models** with **data-driven deep learning** approaches.
           
 ---
-    
+                                
 ## 📌 Overview
 
 This repository presents a unified PINN-based framework for **Battery Management Systems (BMS)** that enables precise prediction of:
