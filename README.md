@@ -1,4 +1,4 @@
-# 🔋 Physics-Informed Neural Networks (PINNs) for Battery State Prediction
+# 🔋 Physics-Informed Neural Networks (PINNs) for Battery State Prediction 
    
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg) 
