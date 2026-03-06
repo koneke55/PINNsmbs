@@ -12,7 +12,7 @@ A **Physics-Informed Neural Network (PINN)** framework for accurate battery stat
                                 
 ## 📌 Overview
 
-This repository presents a unified PINN-based framework for **Battery Management Systems (BMS)** that enables precise prediction of:
+This repository presents a unified PINN-based framework for **Battery Management Systems (BMS)** that enables precise prediction of: 
 
 - **State of Charge (SoC)**
 - **State of Health (SoH)**
